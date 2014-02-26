@@ -207,6 +207,6 @@ var geoToScreen = function(coordinates){
 
 window.onload = function(){
 
-loadData("altitudes.json");
+loadData("elevationdata.json");
 
 }
